@@ -1,0 +1,11 @@
+#overlay {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  /*display: inline-block;*/
+  background-image: url('paris.jpg');
+  background-repeat: no-repeat;
+  /* Overlay image will be 3x size of original image. */
+  background-size: 300% 300%;
+  display: none;
+}
